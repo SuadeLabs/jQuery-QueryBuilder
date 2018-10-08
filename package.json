@@ -48,7 +48,7 @@
   "homepage": "https://github.com/mistic100/jQuery-QueryBuilder",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mistic100/jQuery-QueryBuilder.git"
+    "url": "git://github.com/SuadeLabs/jQuery-QueryBuilder.git"
   },
   "bugs": {
     "url": "https://github.com/mistic100/jQuery-QueryBuilder/issues"
