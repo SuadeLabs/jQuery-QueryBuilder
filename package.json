@@ -43,7 +43,7 @@
     "builder",
     "filter"
   ],
-  "main": "dist/js/query-builder.standalone.min.js",
+  "main": "dist/js/query-builder.standalone.js",
   "license": "MIT",
   "homepage": "https://github.com/mistic100/jQuery-QueryBuilder",
   "repository": {
