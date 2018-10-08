@@ -8,7 +8,7 @@
 // Plugins: bt-checkbox, bt-selectpicker, bt-tooltip-errors, change-filters, filter-description, invert, mongodb-support, not-group, sortable, sql-support, unique-filter
 (function(root, factory) {
     if (typeof define == 'function' && define.amd) {
-        define(['jquery', 'dot', 'jQuery.extendext'], factory);
+        define(['jquery', 'dot', 'jquery-extendext'], factory);
     }
     else {
         factory(root.jQuery, root.doT);
